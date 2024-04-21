@@ -23,9 +23,9 @@ This repository contains a Selenium-Cucumber framework designed to facilitate au
    ```
 
 ## Usage
-To run tests, execute the following command:
+To run tests, execute the following class:
 ```bash
-mvn test
+TestRunner.java
 ```
 
 ## Contributing
