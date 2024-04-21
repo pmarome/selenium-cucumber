@@ -1,0 +1,9 @@
+Using the adactin testing website (https://adactinhotelapp.com/index.php)
+create an automated script that will search for available hotels and
+validate that the data returned on the select screen matches the searched results,
+
+if the booking date is incorrect or in the past the script should validate the error
+message “Check-In Date shall be before than Check-Out Date”.
+
+Please use any report of your choice and ensure screenshot are captured as evidence.
+Adactin.com - Hotel Reservation System
